@@ -4,6 +4,7 @@
     <MobileHeader class="block md:hidden" />
     <Banner />
     <Presented />
+    <SelectionResult />
     <list-program />
     <Program />
     <Hotline />
